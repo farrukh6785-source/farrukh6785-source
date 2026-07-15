@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 -  I build **cross-platform mobile apps** using **Flutter & Dart**
 -  Passionate about integrating **AI** into mobile experiences
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farrukh-raza-91b64b379/" target="_blank">Connect on LinkedIn</a>
