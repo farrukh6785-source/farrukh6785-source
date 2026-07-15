@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Farrukh Raza</h1>
+<h1 align="center">Hi, I am Farrukh Raza</h1>
 <h3 align="center">Flutter Developer | Building AI-Powered Cross-Platform Apps</h3>
 
 <p align="center">
