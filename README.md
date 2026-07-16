@@ -46,6 +46,8 @@
 | [🎴 Flash Card Quiz App](https://github.com/farrukh6785-source/CodeAlpha_FlashCardQuiz_App) | Interactive quiz app built with Dart for active learning |
 | [💪 Fitness Tracker App](https://github.com/farrukh6785-source/CodeAlpha_FitnessTracker_App) | Track workouts and fitness goals with a clean UI |
 | [🗣️ Language Learning App](https://github.com/farrukh6785-source/CodeAlpha_LanguageLearning_App-) | Helping users learn new languages on the go |
+| [🗣️ A Smart AI-Powered Personal Finance Tracker ](https://github.com/farrukh6785-source/A-Smart-AI-Powered-Personal-Finance-Tracker-) | Personal Finance Tracker designed to make money management simpler, smarter and more efficient.
+ |
 
 ---
 
