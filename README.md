@@ -19,7 +19,7 @@
 - Comfortable with **Firebase** for backend, auth, and real-time data
 - I connect apps to the world through **REST APIs**
 - I also design clean, user-friendly interfaces (**UI/UX**)
-- Currently leveling up through hands-on projects (CodeAlpha & personal builds)
+- Currently leveling up through hands-on projects 
 
 ---
 
